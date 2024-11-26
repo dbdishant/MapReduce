@@ -19,6 +19,7 @@ First come out to the base folder
 ```bash
 $ chmod u+w MapReduce
 ```
+---
 
 ### Description of the Code
 
